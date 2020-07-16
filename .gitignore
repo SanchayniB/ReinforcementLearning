@@ -1,6 +1,9 @@
 # pdf and other sources
 References/
 .DS_Store
+.vscode*
+.vscode/
+*.json 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
